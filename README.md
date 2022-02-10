@@ -5,7 +5,7 @@ low-profile, column-staggered, unibody, 34 key mechanical keyboard based on the 
 
 custom symbols and footprints from [MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid) and [Keebio](https://github.com/keebio)
 
-QMK firmware can be found [here](https://github.com/howird/keebwird_firmware)z
+QMK firmware can be found [here](https://github.com/howird/keebwird_firmware)
  
  # BOM
 | Name                             | Quantity          |
